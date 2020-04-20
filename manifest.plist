@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string id="ipa">https://test.com/dab.ipa</string>
+					<string id="ipa">https://github.com/jerrysong11/testIos/blob/master/DAB_iOS_SIT_1.0.88.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string id="minIcon">https://test/logo57.png</string>
+					<string id="minIcon">https://github.com/jerrysong11/testIos/blob/master/logo_58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string id="maxIcon">https://test/logo512.png</string>
+					<string id="maxIcon">https://github.com/jerrysong11/testIos/blob/master/logo_1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
